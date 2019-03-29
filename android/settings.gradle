@@ -1,0 +1,3 @@
+rootProject.name = 'peeples_deer_club_1769'
+
+include ':app'
